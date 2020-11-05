@@ -54,6 +54,7 @@ class TicketsUI {
           <span class="ticket-airline-name"
             >${ticket.airline_name}</span
           >
+          <i class="small material-icons ml-auto" id="add-to-fav">favorite_border</i>
         </div>
         <div class="ticket-destination d-flex align-items-center">
           <div class="d-flex align-items-center mr-auto">
